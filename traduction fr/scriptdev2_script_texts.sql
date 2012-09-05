@@ -4459,4 +4459,10 @@ UPDATE `script_texts` SET `content_loc2` = 'Quand j\'ai besoin de quelqu\'un pou
 UPDATE `script_texts` SET `content_loc2` = 'Alors, je vais m\'engager à vous ignorer.' WHERE `entry` =-1552053;
 UPDATE `script_texts` SET `content_loc2` = 'Que savez vous sur l\'engagement, feuille-sah?' WHERE `entry` =-1552054;
 UPDATE `script_texts` SET `content_loc2` = 'Vous êtes celui qui doit être - Attendez, nous avons de la compagnie ...' WHERE `entry` =-1552055;
+UPDATE `script_texts` SET `content_loc2` = 'Un être ancien se réveille dans la distance ...' WHERE `entry` =-1532125;
+UPDATE `script_texts` SET `content_loc2` = 'Quels imbéciles! Je vais mettre un terme rapide à vos souffrances!' WHERE `entry` =-1532126;
+UPDATE `script_texts` SET `content_loc2` = 'Vermine misérable. Je vous exterminerai de l\'air !' WHERE `entry` =-1532127;
+UPDATE `script_texts` SET `content_loc2` = 'Assez! Je vais atterrir et vous écraser moi-même!' WHERE `entry` =-1532128;
+UPDATE `script_texts` SET `content_loc2` = 'Insectes! Permettez-moi de vous montrer ma force de près!' WHERE `entry` =-1532129;
+UPDATE `script_texts` SET `content_loc2` = '%s respire profondément.' WHERE `entry` =-1532130;
 
