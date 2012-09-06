@@ -692,3 +692,4 @@ UPDATE `mangos_string` SET `content_loc2` = 'L\'événement %u "%s" a débuté.'
 UPDATE `mangos_string` SET `content_loc2` = 'L\'événement %u "%s" s\'est terminé.' WHERE `entry` = 1131;
 UPDATE `mangos_string` SET `content_loc2` = 'Vous essayez de visionner une cinématique inexistante.' WHERE `entry` = 1200;
 UPDATE `mangos_string` SET `content_loc2` = 'Vous essayez de visionner une vidéo inexistante.' WHERE `entry` = 1201;
+UPDATE `mangos_string` SET `content_loc2` = 'Vous ne pouvez pas entrer dans le Marais Noir jusqu\'à ce que vous sauviez Thrall du donjon de  Fort-de-Durn.' WHERE `entry` = 818;
