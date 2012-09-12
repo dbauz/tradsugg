@@ -16682,3 +16682,5 @@ UPDATE `locales_gameobject` SET `name_loc2` = 'Arbre Mistérieux' WHERE `entry` 
 UPDATE `locales_gameobject` SET `name_loc2` = 'Fissure de lave' WHERE `entry` = 211054;
 UPDATE `locales_gameobject` SET `name_loc2` = 'Sarcophage' WHERE `entry` = 211067;
 UPDATE `locales_gameobject` SET `name_loc2` = 'Totem de feu' WHERE `entry` = 211068;
+UPDATE `locales_gameobject` SET `name_loc2` = 'Oeuf étrange' WHERE `entry` = 175565;
+UPDATE `locales_gameobject` SET `name_loc2` = 'Oeuf étrange' WHERE `entry` = 175567;

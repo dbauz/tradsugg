@@ -37834,3 +37834,4 @@ UPDATE `locales_item` SET `name_loc2` = 'Gants de changelin' WHERE `entry` = 531
 UPDATE `locales_item` SET `name_loc2` = 'Liquette de la tombée du jour' WHERE `entry` = 53114;
 UPDATE `locales_item` SET `name_loc2` = 'Offrande de Zarithrian' WHERE `entry` = 53110;
 UPDATE `locales_item` SET `name_loc2` = 'Offrande à Saviana' WHERE `entry` = 53116;
+UPDATE `locales_item` SET `name_loc2` = 'Cheval de guerre squelette ocre', `description_loc2` = 'Utilise: Vous apprend à invoquer cette monture.' WHERE `entry` = 47101;
