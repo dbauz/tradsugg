@@ -4465,4 +4465,5 @@ UPDATE `script_texts` SET `content_loc2` = 'Vermine misérable. Je vous extermin
 UPDATE `script_texts` SET `content_loc2` = 'Assez! Je vais atterrir et vous écraser moi-même!' WHERE `entry` =-1532128;
 UPDATE `script_texts` SET `content_loc2` = 'Insectes! Permettez-moi de vous montrer ma force de près!' WHERE `entry` =-1532129;
 UPDATE `script_texts` SET `content_loc2` = '%s respire profondément.' WHERE `entry` =-1532130;
+UPDATE `script_texts` SET `content_loc2` = '%s prend une grande respiration!' WHERE `entry` =-1548056;
 
