@@ -762,3 +762,29 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = '<Mettez votre main
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'La foire de Sombrelune est déjà arrivé, dites-vous? Où est-elle situé?' WHERE `menu_id` = 6213 AND `id` = 1;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = '[ph] Apprend la recette...' WHERE `menu_id` = 6443 AND `id` = 0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Je veux parcourir vos marchandises.' WHERE `menu_id` = 6445 AND `id` = 0;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Guidez-moi vers le Cimetière de Forteresse.' WHERE `menu_id` = 10128 AND `id` = 0;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Guidez-moi vers le Cimetière d\'Anneau Immergé.' WHERE `menu_id` = 10128 AND `id` = 1;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Guide-moi au Cimetière anneau brisé.' WHERE `menu_id` = 10128 AND `id` = 2;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Guide-moi vers le Cimetière d Étincelle Ouest.' WHERE `menu_id` = 10128 AND `id` = 3;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Guide-moi au Cimetière Eastspark.' WHERE `menu_id` = 10128 AND `id` = 4;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Guide-moi vers le camp d\'atterrissage Alliance.' WHERE `menu_id` = 10128 AND `id` = 5;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Teleport au camp de base Expedition' WHERE `menu_id` = 10389 AND `id` = 0;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Teleport au sol de la Formation .' WHERE `menu_id` = 10389 AND `id` = 1;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Teleport à la forge colossale.' WHERE `menu_id` = 10389 AND `id` = 3;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Téléportation à la casse.' WHERE `menu_id` = 10389 AND `id` = 4;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Téléportation vers l\'antichambre d\'Ulduar.' WHERE `menu_id` = 10389 AND `id` = 5;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Téléportation à la promenade brisé.' WHERE `menu_id` = 10389 AND `id` = 6;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Oui. Nous sommes prêts à relever les défis qui nous attendent.' WHERE `menu_id` = 10599 AND `id` = 1;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Parlez-moi de la recette Cape Froidemort' WHERE `menu_id` = 10118 AND `id` = 4;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Parlez-moi de la recette Wispcloak.' WHERE `menu_id` = 10118 AND `id` = 2;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Entraînez moi.' WHERE `menu_id` = 10118 AND `id` = 0;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Je voudrais m\'entraîner.' WHERE `menu_id` = 8540 AND `id` = 0;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Je voudrais laisser mon animal de compagnie ici' WHERE `menu_id` = 9821 AND `id` = 1;
+INSERT INTO `locales_gossip_menu_option` VALUES ('6520', '0', null, 'Oui, faites s\'il vous plaît.', null, null, null, null, null, null, null, null, null, null, null, null, null, null);
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = '[PH] Je tiens à offrir prisonnier.' WHERE `menu_id` = 20002 AND `id` = 0;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Je cherche une formation pour monter à cheval.' WHERE `menu_id` = 10724 AND `id` = 0;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Permettez-moi de voir vos marchandises.' WHERE `menu_id` = 10724 AND `id` = 1;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Permettez-moi de passer en revue vos biens' WHERE `menu_id` = 10724 AND `id` = 2;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Votre conjoint?' WHERE `menu_id` = 8498 AND `id` = 0;
+
+
