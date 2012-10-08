@@ -4467,4 +4467,5 @@ UPDATE `script_texts` SET `content_loc2` = 'Insectes! Permettez-moi de vous mont
 UPDATE `script_texts` SET `content_loc2` = '%s respire profondément.' WHERE `entry` =-1532130;
 UPDATE `script_texts` SET `content_loc2` = '%s prend une grande respiration!' WHERE `entry` =-1548056;
 UPDATE `script_texts` SET `content_loc2` = 'Vous paierez pour cette insulte, $c!' WHERE `entry` =-1230034;
+UPDATE `script_texts` SET `content_loc2` = '%s est à peu près libre de ses obligations!' WHERE `entry` =-1544016;
 
