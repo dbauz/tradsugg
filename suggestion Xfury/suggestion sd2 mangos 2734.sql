@@ -35,9 +35,6 @@ UPDATE creature_template SET minhealth=1000, maxhealth=1000, minmana=10000, maxm
 -- Shield Orbs stats (ytdb)
 UPDATE creature_template SET minlevel=70, maxlevel=70, minhealth=13986, maxhealth=13986, armor=6740, faction_A=14, faction_H=14 WHERE `entry` = 25502;
 -- Sinister reflections (clone effect)
-delete from spell_script_target where entry=45785;
-insert into spell_script_target values
-(45785, 1, 25708);
 -- Power of the blue flight spells (ytdb)
 UPDATE creature_template SET spell1=45862, spell2=45860, spell3=45856, spell4=45848 WHERE entry=25653;
 -- Fil Kil'jaeden stats (ytdb)
