@@ -56,3 +56,5 @@ UPDATE `gossip_texts` SET `content_loc2`='Jusqu\'à ce que nous nous revoyons, T
 UPDATE `gossip_texts` SET `content_loc2`='Je vous serais reconnaissant pour toute aide que vous pouvez fournir, prêtresse.' WHERE `entry`=-3534006;
 UPDATE `gossip_texts` SET `content_loc2`='J\'ai besoin d\'un moment de votre temps, monsieur.' WHERE `entry`=-3000108;
 UPDATE `gossip_texts` SET `content_loc2`='Pourquoi... oui, évidemment. J\'ai quelque chose pour vous montrer à l\'intérieur de ce bâtiment, M. Anvilward.' WHERE `entry`=-3000110;
+UPDATE `gossip_texts` SET `content_loc2`='Je suis avec vous, Akama.' WHERE `entry`= -3564000;
+
