@@ -4469,4 +4469,14 @@ UPDATE `script_texts` SET `content_loc2` = '%s prend une grande respiration!' WH
 UPDATE `script_texts` SET `content_loc2` = 'Vous paierez pour cette insulte, $c!' WHERE `entry` =-1230034;
 UPDATE `script_texts` SET `content_loc2` = '%s est à peu près libre de ses obligations!' WHERE `entry` =-1544016;
 UPDATE `script_texts` SET `content_loc2` = 'Brisés de la tribu Cendrelangues, votre chef parle!' WHERE `entry` = -1564130;
+UPDATE `script_texts` SET `content_loc2` = 'Faisons-le... Il suffit de me couvrir et je livrerai le paquet.' WHERE `entry` = -1000891;
+UPDATE `script_texts` SET `content_loc2` = 'Je suis attaqué! Je le répète, je suis attaqué!' WHERE `entry` = -1000892;
+UPDATE `script_texts` SET `content_loc2` = 'J\'ai besoin de trouver une nouvelle ligne de travail.' WHERE `entry` = -1000893;
+UPDATE `script_texts` SET `content_loc2` = 'Par le deuxième soleil de K\'aresh, regardez cet endroit! Je peux imaginer seulement ce que Salhadaar planifie. Allez, nous allons continuer' WHERE `entry` = -1000894;
+UPDATE `script_texts` SET `content_loc2` = 'Avec ce vide quantité de déchets et de ruissellement, une horreur toxique vide ne peut pas être trop loin derrière.' WHERE `entry` = -1000895;
+UPDATE `script_texts` SET `content_loc2` = 'Regardez-là, le chair de langue, le conduit de Salhadaar! Il garde les bien nourris ...' WHERE `entry` = -1000896;
+UPDATE `script_texts` SET `content_loc2` = 'Bien, gardez-moi protégé pendant que je plante ce  perturbateur. Cela ne devrait pas prendre très longtemps...' WHERE `entry` = -1000897;
+UPDATE `script_texts` SET `content_loc2` = 'Protéger le conduit! Arrêtez les intrus!' WHERE `entry` = -1000898;
+UPDATE `script_texts` SET `content_loc2` = 'Fait! Soutenez-le! Soutenez-le!' WHERE `entry` = -1000899;
+UPDATE `script_texts` SET `content_loc2` = 'Semble que mon travail soit fait ici. Rapport à l\'holo-image d\'Émir au transporteur.' WHERE `entry` = -1000900;
 
