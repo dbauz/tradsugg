@@ -57,4 +57,6 @@ UPDATE `gossip_texts` SET `content_loc2`='Je vous serais reconnaissant pour tout
 UPDATE `gossip_texts` SET `content_loc2`='J\'ai besoin d\'un moment de votre temps, monsieur.' WHERE `entry`=-3000108;
 UPDATE `gossip_texts` SET `content_loc2`='Pourquoi... oui, évidemment. J\'ai quelque chose pour vous montrer à l\'intérieur de ce bâtiment, M. Anvilward.' WHERE `entry`=-3000110;
 UPDATE `gossip_texts` SET `content_loc2`='Je suis avec vous, Akama.' WHERE `entry`= -3564000;
+UPDATE `gossip_texts` SET `content_loc2`='Je suis prêt, Akama.' WHERE `entry`=-3564001;
+UPDATE `gossip_texts` SET `content_loc2`='Nous sommes prêts à faire face à Illidan.' WHERE `entry`=-3564002;
 
