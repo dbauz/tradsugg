@@ -4509,4 +4509,12 @@ UPDATE `script_texts` SET `content_loc2` = 'Rencontrez votre fin,  démon!' WHER
 UPDATE `script_texts` SET `content_loc2` = 'Soyez prudents, amis  Le Traître médite dans la cour juste au-delà.' WHERE `entry` =-1564120;
 UPDATE `script_texts` SET `content_loc2` = 'Venez, mes serviteurs. Faire face à ce traître comme il le mérite!' WHERE `entry` =-1564121;
 UPDATE `script_texts` SET `content_loc2` = 'Je m\'occuperai de ces bâtards. Frappez maintenant,  amis! Attaquez le traître!' WHERE `entry` =-1564122;
+UPDATE `script_texts` SET `content_loc2` = 'L\'œil d\'Achérus se lance vers sa destination' WHERE `entry` =-1609089; 	  	
+UPDATE `script_texts` SET `content_loc2` = 'L\'œil d\'Achérus est sous votre contrôle' WHERE `entry` =-1609090;
+UPDATE `script_texts` SET `content_loc2` ='Maman ?' WHERE `entry` =-1609091; 	  	
+UPDATE `script_texts` SET `content_loc2` = 'DONNEZ-MOI DES CERVEAUX !' WHERE `entry` =-1609092;	 	  
+UPDATE `script_texts` SET `content_loc2` = 'Doit nourrir...' WHERE `entry` =-1609093;
+UPDATE `script_texts` SET `content_loc2` = 'Tellement faim...' WHERE `entry` =-1609094;
+UPDATE `script_texts` SET `content_loc2` = '$g pavot : Mama; !' WHERE `entry` =-1609095; 	
+UPDATE `script_texts` SET `content_loc2` = 'Il met la goule dans la fosse, sinon on obtient les cils !' WHERE `entry` =-1609096;
 
