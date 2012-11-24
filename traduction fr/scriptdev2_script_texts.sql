@@ -4603,4 +4603,6 @@ UPDATE `script_texts` SET `content_loc2` = '%s s\'effondre.' WHERE `entry` =-160
 UPDATE `script_texts` SET `content_loc2` = '%s charge vers le roi-liche, porte-cendres dans la main et frappe le roi-liche.' WHERE `entry` =-1609284;
 UPDATE `script_texts` SET `content_loc2` = '%s disparaît. Tirion marche vers l\'endroit où poser Darion' WHERE `entry` =-1609285;
 UPDATE `script_texts` SET `content_loc2` = 'La lumière envahit la chapelle -- la Lumière de l\'Aube est dévoilée.' WHERE `entry` =-1609286;
+UPDATE `script_texts` SET `content_loc2` = '%s se dresse, en vous faisant signe de la main pour le monter.' WHERE `entry` =-1609287;
+UPDATE `script_texts` SET `content_loc2` = 'Impressionnant,Chevalier de la mort. Revenez-moi dans le monde de la vie pour votre récompense.' WHERE `entry` =-1609288;
 
