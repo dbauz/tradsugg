@@ -59,4 +59,6 @@ UPDATE `gossip_texts` SET `content_loc2`='Pourquoi... oui, évidemment. J\'ai qu
 UPDATE `gossip_texts` SET `content_loc2`='Je suis avec vous, Akama.' WHERE `entry`= -3564000;
 UPDATE `gossip_texts` SET `content_loc2`='Je suis prêt, Akama.' WHERE `entry`=-3564001;
 UPDATE `gossip_texts` SET `content_loc2`='Nous sommes prêts à faire face à Illidan.' WHERE `entry`=-3564002;
+UPDATE `gossip_texts` SET `content_loc2`='Je vous défie, chevalier de la mort!' WHERE `entry`=-3609000;
+UPDATE `gossip_texts` SET `content_loc2`='Je suis prêt, Généralissime. Permettez au siège de l\'Espoir de Lumière de commencer!' WHERE `entry`=-3609001;
 

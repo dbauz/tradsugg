@@ -4605,4 +4605,6 @@ UPDATE `script_texts` SET `content_loc2` = '%s disparaît. Tirion marche vers l\
 UPDATE `script_texts` SET `content_loc2` = 'La lumière envahit la chapelle -- la Lumière de l\'Aube est dévoilée.' WHERE `entry` =-1609286;
 UPDATE `script_texts` SET `content_loc2` = '%s se dresse, en vous faisant signe de la main pour le monter.' WHERE `entry` =-1609287;
 UPDATE `script_texts` SET `content_loc2` = 'Impressionnant,Chevalier de la mort. Revenez-moi dans le monde de la vie pour votre récompense.' WHERE `entry` =-1609288;
+UPDATE `script_texts` SET `content_loc2` = '%s se cabre, vous appelant pour y aller.' WHERE `entry` =-1609097;
+UPDATE `script_texts` SET `content_loc2` = 'Impressionnant, Chevalier de la mort. Retour à moi dans le monde de la vie pour votre récompense.' WHERE `entry` =-1609098;
 
