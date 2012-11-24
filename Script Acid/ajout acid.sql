@@ -37,3 +37,7 @@ INSERT INTO `creature_ai_scripts` (`id`,`creature_id`,`event_type`,`event_invers
 ('2200901','22009','11','0','100','2','0','0','0','0','21','0','0','0','0','0','0','0','0','0','0','0','Tainted Elemental - Prevent Combat Movement on Spawn'),
 ('2200902','22009','0','0','100','3','2000','3000','2000','3000','11','38253','4','0','0','0','0','0','0','0','0','0','Tainted Elemental - Cast Poison Bolt'),
 ('2200903','22009','1','0','100','2','15000','15000','0','0','41','0','0','0','0','0','0','0','0','0','0','0','Tainted Elemental - Forced Despawn After 15 Seconds');
+INSERT INTO `creature_ai_summons` (`id`,`position_x`,`position_y`,`position_z`,`orientation`,`spawntimesecs`,`comment` ) VALUES
+('22','2540.95','4032.21','136.18','4.44','60000','20287'),
+('23','2507.12','4010.69','133.87','5.99','60000','20287'),
+('24','2547.05','3980.34','131.04','2.29','60000','20287');
