@@ -786,5 +786,8 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Je cherche une for
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Permettez-moi de voir vos marchandises.' WHERE `menu_id` = 10724 AND `id` = 1;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Permettez-moi de passer en revue vos biens' WHERE `menu_id` = 10724 AND `id` = 2;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Votre conjoint?' WHERE `menu_id` = 8498 AND `id` = 0;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Je voudrais me former davantage dans les voies de la lumière' WHERE `menu_id` = 6647  AND `id` =1 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'En savoir plus sur Double spécialisation des talents' WHERE `menu_id` = 6647 AND `id` = 2;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Je tiens à désapprendre mes talents.' WHERE `menu_id` = 6647 AND `id` = 3;
 
 
