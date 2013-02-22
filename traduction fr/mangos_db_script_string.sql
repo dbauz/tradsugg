@@ -552,5 +552,13 @@ UPDATE `db_script_string` SET `content_loc2` = 'Je vous ralentirai seulement, ma
 UPDATE `db_script_string` SET `content_loc2` = 'Ne pas charger A\'dal avec des questions banales,  $r. Cette volonté d\'être est tout ce qui empêche nos ennemis d\'écraser cette ville.' WHERE `entry` = 2000000221;
 UPDATE `db_script_string` SET `content_loc2` = 'En haut ici sur la colline, $N' WHERE `entry` = 2000000221;
 UPDATE `db_script_string` SET `content_loc2` = 'Je vous ai apporté un cadeau de pendaison de crémaillère, Jarl.' WHERE `entry` = 2000005328;
+UPDATE `db_script_string` SET `content_loc2`='Merci! Je ne pourrais pas pu tenir bon  beaucoup plus longtemps. Une chose épouvantable est arrivée ici.' WHERE `entry`=2000005441;
+UPDATE `db_script_string` SET `content_loc2`='Nous avons cru que le Sanctum était bien fortifié, mais nous n\'étions pas preparé à la nature de cette agression.' WHERE `entry`=2000005442;
+UPDATE `db_script_string` SET `content_loc2`='Le draconien noir matérialisé dans l\'air mince fondaient sur nous avant que nous puissions réagir.' WHERE `entry`=2000005443;
+UPDATE `db_script_string` SET `content_loc2`='Nous n\'avions pas une chance. Comme mes frères ont péri autour de moi, j\'ai réussi à me retirer et barrer l\'entrée.' WHERE `entry`=2000005444;
+UPDATE `db_script_string` SET `content_loc2`='Ils nous ont abattus avec une froide efficacité, mais le vrai foyer de leur intérêt a semblé être les œufs gardés ici dans le sanctuaire.' WHERE `entry`=2000005445;
+UPDATE `db_script_string` SET `content_loc2`='Le commandant des forces sur la terre est ici une brute cruelle appelée Zarithrian. Mais je crains qu\'il y ait de plus grands pouvoirs au travail.' WHERE `entry`=2000005446;
+UPDATE `db_script_string` SET `content_loc2`='Dans leur assaut initial j\'ai entrevu leur vrai chef, un Dragon de Crépuscule adulte effrayant.' WHERE `entry`=2000005447;
+UPDATE `db_script_string` SET `content_loc2`='Je sais pas la mesure des plans de leurs héros , mais je le sais : on ne peut pas leur permettre de réussir !' WHERE `entry`=2000005448;
 
 
