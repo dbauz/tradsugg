@@ -1,0 +1,1 @@
+UPDATE creature_ai_scripts SET event_flags=event_flags|2 WHERE creature_id IN (23619,23623,23624,23625,23626,23830);
