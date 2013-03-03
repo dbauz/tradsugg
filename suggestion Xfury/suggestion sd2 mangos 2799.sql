@@ -43,7 +43,7 @@ INSERT INTO creature_linking_template (entry, map, master_entry, flag, search_ra
 -- Halion data (ytdb & sniff)
 UPDATE creature_template SET minhealth=11156000, maxhealth=11156000, armor=10627, faction_A=14, faction_H=14, rank=3, mindmg=468, maxdmg=702, attackpower=175, dmg_multiplier=74.2, baseattacktime=2000,
  rangeattacktime=2000, unit_flags=32832, minrangedmg=374, maxrangedmg=562, rangedattackpower=140 WHERE entry=39863;
-UPDATE creature_template SET difficulty_entry_1=40143, difficulty_entry_2=40144, difficulty_entry_3=40145, minhealth=11156000, maxhealth=11156000, minlevel=83, maxlevel=83 faction_A=14, faction_H=14, rank=3, mindmg=468,
+UPDATE creature_template SET difficulty_entry_1=40143, difficulty_entry_2=40144, difficulty_entry_3=40145, minhealth=11156000, maxhealth=11156000, minlevel=83, maxlevel=83, faction_A=14, faction_H=14, rank=3, mindmg=468,
  maxdmg=702, attackpower=175, dmg_multiplier=74.6, baseattacktime=2000, rangeattacktime=2000, unit_flags=32832, minrangedmg=374, maxrangedmg=562, rangedattackpower=140 WHERE entry=40142;
 UPDATE creature_template SET faction_A=14, faction_H=14, unit_flags=33554688 WHERE entry=40146;
 
