@@ -11,7 +11,7 @@ INSERT INTO creature (id,map,spawnMask,phaseMask,modelid,equipment_id,position_x
 -- Note: orb totation focus not yet spawned because the sniff coords are off compared to actual map
 
 -- Twilight flame ring
-DELETE FROM gameobject WHERE (id=203624);
+DELETE FROM gameobject WHERE id=203624;
 INSERT INTO gameobject (id, map, spawnMask, phaseMask, position_x, position_y, position_z, orientation, rotation0, rotation1, rotation2, rotation3, spawntimesecs, animprogress, state) VALUES
 (203624, 724, 15, 32, 3157.372, 533.9948, 72.8887, -1.420596, 0, 0, 0, 0, 7200, 255, 1);
 
