@@ -4608,4 +4608,12 @@ UPDATE `script_texts` SET `content_loc2` = 'Impressionnant,Chevalier de la mort.
 UPDATE `script_texts` SET `content_loc2` = '%s se cabre, vous appelant pour y aller.' WHERE `entry` =-1609097;
 UPDATE `script_texts` SET `content_loc2` = 'Impressionnant, Chevalier de la mort. Retour à moi dans le monde de la vie pour votre récompense.' WHERE `entry` =-1609098;
 UPDATE `script_texts` SET `content_loc2` = 'Merci, généralissime. Maintenant, challengers, je vais commencer le rituel de convocation. Quand j\'aurai fini un redoutable garde funeste apparaîtra!  ' WHERE `entry` =-1649010;
+UPDATE `script_texts` SET `content_loc2` = 'Il n\'y aura pas de pitié!' WHERE `entry` =-1578020;
+UPDATE `script_texts` SET `content_loc2` = 'Faites-les sauter ! Détruisez-les !' WHERE `entry` =-1578021;
+UPDATE `script_texts` SET `content_loc2` = 'Ne faites aucun prisonnier ! Attaquez !' WHERE `entry` =-1578022;
+UPDATE `script_texts` SET `content_loc2` = 'Frappez maintenant ! Effacez-les !' WHERE `entry` =-1578023;
+UPDATE `script_texts` SET `content_loc2` = 'Vous avez été prévenu !' WHERE `entry` =-1578026;
+UPDATE `script_texts` SET `content_loc2` = 'L\'Oculus est  nôtre !' WHERE `entry` =-1578027;
+UPDATE `script_texts` SET `content_loc2` = 'Ils sont... trop forts ! Sous-estimé leur... courage.' WHERE `entry` =-1578028;
+UPDATE `script_texts` SET `content_loc2` = '%s appelle un capitaine anneau azur!' WHERE `entry` =-1578029;
 
