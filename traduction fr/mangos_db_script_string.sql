@@ -560,5 +560,9 @@ UPDATE `db_script_string` SET `content_loc2`='Ils nous ont abattus avec une froi
 UPDATE `db_script_string` SET `content_loc2`='Le commandant des forces sur la terre est ici une brute cruelle appelée Zarithrian. Mais je crains qu\'il y ait de plus grands pouvoirs au travail.' WHERE `entry`=2000005446;
 UPDATE `db_script_string` SET `content_loc2`='Dans leur assaut initial j\'ai entrevu leur vrai chef, un Dragon de Crépuscule adulte effrayant.' WHERE `entry`=2000005447;
 UPDATE `db_script_string` SET `content_loc2`='Je sais pas la mesure des plans de leurs héros , mais je le sais : on ne peut pas leur permettre de réussir !' WHERE `entry`=2000005448;
+UPDATE `db_script_string` SET `content_loc2` = 'Nous vous remercions de nous libérer, mortels. Attention, le vol bleu est averti de votre présence. Même maintenant, Malygos envoie Varos hache et ses gardiens de l\'anneau pour défendre l\'Oculus. Vous aurez besoin de notre aide pour avoir une chance.' WHERE `entry` = 2000005511;
+UPDATE `db_script_string` SET `content_loc2` = 'Intrus, votre victoire sera de courte durée. Je suis le commandant Varos Cloudstrider. Mes dragons contrôlent le ciel et protègent cette conduite. Je vais voir avrc lui personnellement que l\'Oculus ne tombe pas dans vos mains !' WHERE `entry` = 2000005512;
+UPDATE `db_script_string` SET `content_loc2` = 'Le trickster Seigneur-mage Urom protège le troisième anneau. Il apparaîtra seul et sans défense, mais ne vous fiez aux apparences! Urom est un prestidigitateur puissant qui commande une ménagerie de créatures fantomatiques. Cherchez-le ci-dessus' WHERE `entry` = 2000005513;
+UPDATE `db_script_string` SET `content_loc2` = 'Votre plus grand défi vous attend. Gardien-tellurique Eregos est un dragon bleu au pouvoir immense. Vous le trouverez il vole au-dessus de la bague supérieure.' WHERE `entry` = 2000005514;
 
 
