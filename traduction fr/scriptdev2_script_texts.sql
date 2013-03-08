@@ -4616,4 +4616,5 @@ UPDATE `script_texts` SET `content_loc2` = 'Vous avez été prévenu !' WHERE `e
 UPDATE `script_texts` SET `content_loc2` = 'L\'Oculus est  nôtre !' WHERE `entry` =-1578027;
 UPDATE `script_texts` SET `content_loc2` = 'Ils sont... trop forts ! Sous-estimé leur... courage.' WHERE `entry` =-1578028;
 UPDATE `script_texts` SET `content_loc2` = '%s appelle un capitaine anneau azur!' WHERE `entry` =-1578029;
+UPDATE `script_texts` SET `content_loc2` = '%s s\'envole.' WHERE `entry` =-1578030;
 
