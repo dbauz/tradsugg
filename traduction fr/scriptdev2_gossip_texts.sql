@@ -63,4 +63,5 @@ UPDATE `gossip_texts` SET `content_loc2`='Je vous défie, chevalier de la mort!'
 UPDATE `gossip_texts` SET `content_loc2`='Je suis prêt, Généralissime. Permettez au siège de l\'Espoir de Lumière de commencer!' WHERE `entry`=-3609001;
 UPDATE `gossip_texts` SET `content_loc2`='Brann, ce serait notre honneur !' WHERE `entry`=-3599000; 	
 UPDATE `gossip_texts` SET `content_loc2`='Passons Brann, assez de leçons d\'histoire!' WHERE `entry`=-3599001;
+UPDATE `gossip_texts` SET `content_loc2`='Merci pour l\'intérêt, mais nous avons l\'intention d\'explorer Zul\'Aman.' WHERE `entry`=-3568000;
 
