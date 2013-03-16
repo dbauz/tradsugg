@@ -4619,3 +4619,4 @@ UPDATE `script_texts` SET `content_loc2` = '%s appelle un capitaine anneau azur!
 UPDATE `script_texts` SET `content_loc2` = '%s s\'envole.' WHERE `entry` =-1578030;
 UPDATE `script_texts` SET `content_loc2` = '%s prend une grande respiration' WHERE `entry` =-1575041;
 UPDATE `script_texts` SET `content_loc2` = '%s prend une grande respiration' WHERE `entry` =-1616034;
+UPDATE `script_texts` SET `content_loc2` = 'Vous savez ce qu\'ils disent au sujet de la curiosité' WHERE `entry` =-1576000;
