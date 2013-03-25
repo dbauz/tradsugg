@@ -564,5 +564,10 @@ UPDATE `db_script_string` SET `content_loc2` = 'Nous vous remercions de nous lib
 UPDATE `db_script_string` SET `content_loc2` = 'Intrus, votre victoire sera de courte durée. Je suis le commandant Varos Cloudstrider. Mes dragons contrôlent le ciel et protègent cette conduite. Je vais voir avrc lui personnellement que l\'Oculus ne tombe pas dans vos mains !' WHERE `entry` = 2000005512;
 UPDATE `db_script_string` SET `content_loc2` = 'Le trickster Seigneur-mage Urom protège le troisième anneau. Il apparaîtra seul et sans défense, mais ne vous fiez aux apparences! Urom est un prestidigitateur puissant qui commande une ménagerie de créatures fantomatiques. Cherchez-le ci-dessus' WHERE `entry` = 2000005513;
 UPDATE `db_script_string` SET `content_loc2` = 'Votre plus grand défi vous attend. Gardien-tellurique Eregos est un dragon bleu au pouvoir immense. Vous le trouverez il vole au-dessus de la bague supérieure.' WHERE `entry` = 2000005514;
-
+UPDATE `db_script_string` SET `content_loc2`='Ceux qui dînent sur ​​les âmes perdues ne connaissent que la faim.' WHERE `entry`=2000005515;
+UPDATE `db_script_string` SET `content_loc2`='Regardez dans le vide. Il s\'agit de la perpétuité dans lequel ils habitent.' WHERE `entry`=2000005516;
+UPDATE `db_script_string` SET `content_loc2`='ls boivent votre peur: c\'est le sang de la vie.' WHERE `entry`=2000005517;
+UPDATE `db_script_string` SET `content_loc2`='ls sont le murmure frissonant du vent .' WHERE `entry`=2000005518;
+UPDATE `db_script_string` SET `content_loc2`='Ils ne meurent pas, ils ne vivent pas. Ils sont en dehors du cycle.' WHERE `entry`=2000005519;
+UPDATE `db_script_string` SET `content_loc2`='Si l\'un tombe, un grand nombre prend sa place ..' WHERE `entry`=2000005520;
 
