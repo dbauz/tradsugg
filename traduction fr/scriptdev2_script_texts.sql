@@ -4620,3 +4620,4 @@ UPDATE `script_texts` SET `content_loc2` = '%s s\'envole.' WHERE `entry` =-15780
 UPDATE `script_texts` SET `content_loc2` = '%s prend une grande respiration' WHERE `entry` =-1575041;
 UPDATE `script_texts` SET `content_loc2` = '%s prend une grande respiration' WHERE `entry` =-1616034;
 UPDATE `script_texts` SET `content_loc2` = 'Vous savez ce qu\'ils disent au sujet de la curiosité' WHERE `entry` =-1576000;
+UPDATE `script_texts` SET `content_loc2` = 'Les intrus détruisent nos oeufs ! Arrêter!!' WHERE `entry` =-1229020;
