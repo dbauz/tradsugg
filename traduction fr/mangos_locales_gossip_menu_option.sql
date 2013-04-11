@@ -792,5 +792,13 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Je tiens à désap
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'J\'ai entendu dire que votre chien Fei Fei a pris le chapelet de Klatu...' WHERE `menu_id` = 7892 AND `id` = 1 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'J\'ai besoin d\'une formation guerrier' WHERE `menu_id` =4482  AND `id` =0 ;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'J\'aimerais me former' WHERE `menu_id` =4008  AND `id` =0;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Accordez-moi votre marque, sage antique.' WHERE `menu_id` = 7559 AND `id` = 0;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Accordez-moi votre marque, sage antique.' WHERE `menu_id` = 7559 AND `id` = 1 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Accordez-moi votre marque, sage antique.' WHERE `menu_id` = 7559 AND `id` = 2;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Accordez-moi votre marque, sage antique.' WHERE `menu_id` = 7559 AND `id` = 3;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Accordez-moi votre marque, sage antique.' WHERE `menu_id` = 7560 AND `id` = 0;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Accordez-moi votre marque, sage antique.' WHERE `menu_id` = 7560 AND `id` = 1;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Accordez-moi votre marque, sage antique.' WHERE `menu_id` = 7560 AND `id` = 2;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Accordez-moi votre marque, sage antique.' WHERE `menu_id` = 7560 AND `id` = 3;
 
 
