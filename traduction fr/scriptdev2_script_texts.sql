@@ -4627,3 +4627,5 @@ UPDATE `script_texts` SET `content_loc2` = 'Braves champions, nous vous devons n
 UPDATE `script_texts` SET `content_loc2` = 'Les intrus détruisent nos oeufs ! Arrêter!!' WHERE `entry` =-1229020;
 UPDATE `script_texts` SET `content_loc2` = '%s se libère de son sommeil de Pierre !' WHERE `entry` =-1070005;
 UPDATE `script_texts` SET `content_loc2` = 'Orbe de domination perd de la puissance et s\'éteint' WHERE `entry` =-1469035;
+UPDATE `script_texts` SET `content_loc2` = 'OK, allons-y !' WHERE `entry` =-1000905;	  	
+UPDATE `script_texts` SET `content_loc2` = 'Je peux faire le reste du chemin. $N. MERCI!' WHERE `entry` =-1000906;
