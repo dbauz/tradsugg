@@ -4629,3 +4629,7 @@ UPDATE `script_texts` SET `content_loc2` = '%s se libère de son sommeil de Pier
 UPDATE `script_texts` SET `content_loc2` = 'Orbe de domination perd de la puissance et s\'éteint' WHERE `entry` =-1469035;
 UPDATE `script_texts` SET `content_loc2` = 'OK, allons-y !' WHERE `entry` =-1000905;	  	
 UPDATE `script_texts` SET `content_loc2` = 'Je peux faire le reste du chemin. $N. MERCI!' WHERE `entry` =-1000906;
+UPDATE `gossip_texts` SET `content_loc2`='Comment osez vous entrer dans mon sanctuaire!' WHERE `entry`=-1209000;
+UPDATE `gossip_texts` SET `content_loc2`='Que les sables vous consomment!' WHERE `entry`=-1209001;
+UPDATE `gossip_texts` SET `content_loc2`='Tombez!' WHERE `entry`=-1209002;
+UPDATE `gossip_texts` SET `content_loc2`='Venez à moi, mes enfants!' WHERE `entry`=-1209003;
