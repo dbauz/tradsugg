@@ -4633,3 +4633,6 @@ UPDATE `gossip_texts` SET `content_loc2`='Comment osez vous entrer dans mon sanc
 UPDATE `gossip_texts` SET `content_loc2`='Que les sables vous consomment!' WHERE `entry`=-1209001;
 UPDATE `gossip_texts` SET `content_loc2`='Tombez!' WHERE `entry`=-1209002;
 UPDATE `gossip_texts` SET `content_loc2`='Venez à moi, mes enfants!' WHERE `entry`=-1209003;
+UPDATE `script_texts` SET `content_loc2` = '%s renifle l\'air. Un tubercule est près!' WHERE `entry` = -1000907;
+UPDATE `script_texts` SET `content_loc2` = '%s commence à creuser.' WHERE `entry` = -1000908;
+UPDATE `script_texts` SET `content_loc2` = '%s grince avec joie à sa découverte.' WHERE `entry` = -1000909;
