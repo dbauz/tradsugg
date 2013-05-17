@@ -570,4 +570,4 @@ UPDATE `db_script_string` SET `content_loc2`='ls boivent votre peur: c\'est le s
 UPDATE `db_script_string` SET `content_loc2`='ls sont le murmure frissonant du vent .' WHERE `entry`=2000005518;
 UPDATE `db_script_string` SET `content_loc2`='Ils ne meurent pas, ils ne vivent pas. Ils sont en dehors du cycle.' WHERE `entry`=2000005519;
 UPDATE `db_script_string` SET `content_loc2`='Si l\'un tombe, un grand nombre prend sa place ..' WHERE `entry`=2000005520;
-UPDATE `db_script_string` SET `content_loc2`='%s est à vos trousses!' WHERE `entry`=2000005524:
+UPDATE `db_script_string` SET `content_loc2`='%s est à vos trousses!' WHERE `entry`=2000005524;
