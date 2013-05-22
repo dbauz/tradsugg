@@ -4,7 +4,7 @@ INSERT INTO `creature_ai_scripts` (`id`,`creature_id`,`event_type`,`event_invers
 ('2187601','21876','1','0','75','1','5000','5000','15000','20000','11','37784','0','0','0','0','0','0','0','0','0','0','Chain of Shadows - Cast Enforced Submission OOC'),
 -- Karsius
 ('2187701','21877','11','0','100','0','0','0','0','0','11','37789','0','1','1','-1320','0','0','0','0','0','0','Karsius - Cast Teron Freed and Say on Spawn'),
-('2187702','21877','6','0','100','0','0','0','0','0','1','-1321','0','0','32','21867','0','23','0','0','0','0','Karsius - Yell on Death and Summon Teron Gorefiend');
+('2187702','21877','6','0','100','0','0','0','0','0','1','-1321','0','0','32','21867','0','25','0','0','0','0','Karsius - Yell on Death and Summon Teron Gorefiend');
 UPDATE `creature_template` SET `AIName` = 'EventAI' WHERE `entry` IN (21876,21877);
 DELETE FROM `creature_ai_texts` WHERE(`entry`=-1320);
 DELETE FROM `creature_ai_texts` WHERE(`entry`=-1321);
