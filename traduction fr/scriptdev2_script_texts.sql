@@ -4636,3 +4636,4 @@ UPDATE `script_texts` SET `content_loc2`='Venez à moi, mes enfants!' WHERE `ent
 UPDATE `script_texts` SET `content_loc2` = '%s renifle l\'air. Un tubercule est près!' WHERE `entry` = -1000907;
 UPDATE `script_texts` SET `content_loc2` = '%s commence à creuser.' WHERE `entry` = -1000908;
 UPDATE `script_texts` SET `content_loc2` = '%s grince avec joie à sa découverte.' WHERE `entry` = -1000909;
+UPDATE `script_texts` SET `content_loc2` = 'Là ! Détruisez-le ! Le Chiffre doit être récupéré !' WHERE `entry` =-1000579 ;
