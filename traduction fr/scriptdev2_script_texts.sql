@@ -4637,3 +4637,13 @@ UPDATE `script_texts` SET `content_loc2` = '%s renifle l\'air. Un tubercule est 
 UPDATE `script_texts` SET `content_loc2` = '%s commence à creuser.' WHERE `entry` = -1000908;
 UPDATE `script_texts` SET `content_loc2` = '%s grince avec joie à sa découverte.' WHERE `entry` = -1000909;
 UPDATE `script_texts` SET `content_loc2` = 'Là ! Détruisez-le ! Le Chiffre doit être récupéré !' WHERE `entry` =-1000579 ;
+UPDATE `script_texts` SET `content_loc2` = 'Allons-nous commencer, mon ami?' WHERE `entry` =-1000910;
+UPDATE `script_texts` SET `content_loc2` = 'Cette zone est connue pour être pleine de fléau immonde. Vous pouvez prendre un moment pour préparer toutes les défenses à votre disposition.' WHERE `entry` =-1000911;
+UPDATE `script_texts` SET `content_loc2` = 'Très bien, continuons.' WHERE `entry` =-1000912;
+UPDATE `script_texts` SET `content_loc2` = 'Méfiez-vous! Nous sommes attaqués!' WHERE `entry` =-1000913;
+UPDATE `script_texts` SET `content_loc2` = 'Il faut la pureté de la marque du porteur de lumière qui tire de suite le fléau à nous. Nous devons procéder avec prudence de peur que nous soyons submergés!' WHERE `entry` =-1000914;
+UPDATE `script_texts` SET `content_loc2` = 'Nous sommes assaillis à nouveau! Défendez-vous!' WHERE `entry` =-1000915;
+UPDATE `script_texts` SET `content_loc2` = 'La terre en a bien besoin d\'être purifiée par la lumière ! Nous poursuivons sur la tombe. Il n\'est pas loin maintenant.' WHERE `entry` =-1000916;
+UPDATE `script_texts` SET `content_loc2` = 'Soyez les bienvenus, mes amis!' WHERE `entry` =-1000917;
+UPDATE `script_texts` SET `content_loc2` = 'Je vous remercie d\'être venu en mémoire de moi. Vos efforts pour recouvrer ce symbole, alors que c\'est inutile, ont certainement touché le coeur d\un vieil homme.' WHERE `entry` =-1000918;
+UPDATE `script_texts` SET `content_loc2` = 'S\'il vous plaît, prends mon ami. Garde la bénédiction comme un symbole de la force de la lumière et comment les héros disparus depuis longtemps pourraient une fois de plus inspirer chacun de nous.' WHERE `entry` =-1000919;
