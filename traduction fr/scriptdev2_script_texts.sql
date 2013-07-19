@@ -4647,3 +4647,11 @@ UPDATE `script_texts` SET `content_loc2` = 'La terre en a bien besoin d\'être p
 UPDATE `script_texts` SET `content_loc2` = 'Soyez les bienvenus, mes amis!' WHERE `entry` =-1000917;
 UPDATE `script_texts` SET `content_loc2` = 'Je vous remercie d\'être venu en mémoire de moi. Vos efforts pour recouvrer ce symbole, alors que c\'est inutile, ont certainement touché le coeur d\un vieil homme.' WHERE `entry` =-1000918;
 UPDATE `script_texts` SET `content_loc2` = 'S\'il vous plaît, prends mon ami. Garde la bénédiction comme un symbole de la force de la lumière et comment les héros disparus depuis longtemps pourraient une fois de plus inspirer chacun de nous.' WHERE `entry` =-1000919;
+UPDATE `script_texts` SET `content_loc2` = '%s se tourne face à vous.' WHERE `entry` = -1000920;
+UPDATE `script_texts` SET `content_loc2` = 'Chamanisme vous a amené ici ... Son odeur imprègne l\'air. *Le roi-liche rit* Je suis un ancien shaman.' WHERE `entry` = -1000921;
+UPDATE `script_texts` SET `content_loc2` = 'Allons-nous nous préparer pour vous, mon seigneur?' WHERE `entry` = -1000922;
+UPDATE `script_texts` SET `content_loc2` = 'Non, favori. Celui-ci n\'est pas prêt.' WHERE `entry` = -1000923;
+UPDATE `script_texts` SET `content_loc2` = 'Le sentez-vous , mortel? la mort s\'infiltre à travers moi, enveloppant tout ce que je touche. Avec juste un claquement de doigt votre âme se languira dans la damnation pour l\'éternité.' WHERE `entry` = -1000924;
+UPDATE `script_texts` SET `content_loc2` = 'Mais... Ce n\'est pas encore votre temps pour servir le Roi Lich. Oui, un destin plus grand vous attend. Pouvoir... Vous devez devenir plus puissants avant que vous ne deviez me servir.' WHERE `entry` = -1000925;
+UPDATE `script_texts` SET `content_loc2` = 'Maintenant, regardez, val\'kyr. Observez que j\'ai appliqué une pression. Vous voyez qu\'il n\'est pas encore mûr? Regardez comme il saute et tombe sans vie sur le sol.' WHERE `entry` = -1000926;
+UPDATE `script_texts` SET `content_loc2` = 'Persistance ou stupidité ? Il n\'importe peu. Que ce soit une leçon apprise, mortel !' WHERE `entry` = -1000927;
