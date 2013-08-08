@@ -15,4 +15,4 @@ UPDATE creature_template SET AIName='EventAI' WHERE `entry` = '1755';
 DELETE FROM `creature_ai_texts` WHERE `entry` =-9001;
 INSERT into `creature_ai_texts` (`entry`,`content_default`,`sound`,`type`,`language`,`comment`,`emote`) VALUES
 ('-9001',' The Defias shall succeed! No meek adventurer will stop us!','0','0','0','1755','0');
-UPDATE `creature_ai_texts` SET `content_loc2`='Les défias doivent réussir ! Aucun aventurier doux ne nous arrêtera !' WHERE (`entry`='-9001')
+UPDATE `creature_ai_texts` SET `content_loc2`='Les défias doivent réussir ! Aucun aventurier doux ne nous arrêtera !' WHERE (`entry`='-9001');
