@@ -4675,3 +4675,13 @@ UPDATE `script_texts` SET `content_loc2` = 'Ils nous affaiblissent! Notre force 
 UPDATE `script_texts` SET `content_loc2` = 'Toute la grêle notre roi glorieux, Ymiron !' WHERE `entry` = -1000945;
 UPDATE `script_texts` SET `content_loc2` = 'Le Roi va parler !' WHERE `entry` = -1000946;
 UPDATE `script_texts` SET `content_loc2` = 'Permettez-lui de parler! Soyez silencieux!' WHERE `entry` = -1000947;
+UPDATE `script_texts` SET `content_loc2` = 'Bien alors, ceci faisant commençons. Plus longtemps nous seront ici, plus nous feront de dommages et les morts vivants pourraient faire marche arrière dans Hautebrande.' WHERE `entry` = -1000948;
+UPDATE `script_texts` SET `content_loc2` = 'Très bien, c\'est là que nous devons vraiment être sur nos pattes. Soyez prêt!' WHERE `entry` = -1000949;
+UPDATE `script_texts` SET `content_loc2` = 'Attaquez moi si vous voulez, mais vous ne m\'empêcherez pas de revenir à Quae' WHERE `entry` = -1000950;
+UPDATE `script_texts` SET `content_loc2` = 'Vous avez ma parole que je vais trouver une utilisation pour votre corps après que je vous ai tué, Kinelory.' WHERE `entry` = -1000951;
+UPDATE `script_texts` SET `content_loc2` = 'Regardez mon arrière! Je verrai ce que je peux trouver dans toute cette ordure ...' WHERE `entry` = -1000952;
+UPDATE `script_texts` SET `content_loc2` = '%s commence à fouiller dans les affaires de l\'apothicaire.' WHERE `entry` = -1000953;
+UPDATE `script_texts` SET `content_loc2` = 'Je parie que Quae pense que ceci est important. Elle n\'est assez bien informée de ces choses - aucun expert, mais bien informée.' WHERE `entry` = -1000954;
+UPDATE `script_texts` SET `content_loc2` = 'Ok, nous allons sortir d\'ici vite vite! Essayez de garder le rythme. Je vais faire une pause pour lui.' WHERE `entry` = -1000955;
+UPDATE `script_texts` SET `content_loc2` = 'Nous l\'avons fait! Quae, nous l\'avons fait' WHERE `entry` = -1000956;
+UPDATE `script_texts` SET `content_loc2` = '%s remet son pack à Quae.' WHERE `entry` = -1000957;
