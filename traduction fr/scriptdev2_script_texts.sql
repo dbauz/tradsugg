@@ -4690,3 +4690,7 @@ UPDATE `script_texts` SET `content_loc2` = 'Cette partie de la forêt est très 
 UPDATE `script_texts` SET `content_loc2` = 'Tuer deux monstres, qui restent près des feuilles de trèfle des marais et puis j\'ai cru comprendre une feuille de trèfle des marais.' WHERE `entry` = -1000960;
 UPDATE `script_texts` SET `content_loc2` = 'Je ramasse une feuille de trèfle des marais. Cela prend un certain temps.' WHERE `entry` = -1000961;
 UPDATE `script_texts` SET `content_loc2` = 'Merci pour votre aide.' WHERE `entry` = -1000962;
+UPDATE `script_texts` SET `content_loc2` = 'Le cœur de %s est exposé et perd de l\'énergie.' WHERE `entry` = -1603054;
+UPDATE `script_texts` SET `content_loc2` = '%s consomme un ferrailleur pour se réparer lui-même !' WHERE `entry` = -1603055;
+UPDATE `script_texts` SET `content_loc2` = 'Le coeur de %s est séparé de son corps.' WHERE `entry` = -1603236;	  	
+UPDATE `script_texts` SET `content_loc2` = '%s commence à faire trembler la terre.' WHERE `entry` = -1603237;
