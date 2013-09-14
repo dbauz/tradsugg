@@ -4694,3 +4694,5 @@ UPDATE `script_texts` SET `content_loc2` = 'Le cœur de %s est exposé et perd d
 UPDATE `script_texts` SET `content_loc2` = '%s consomme un ferrailleur pour se réparer lui-même !' WHERE `entry` = -1603055;
 UPDATE `script_texts` SET `content_loc2` = 'Le coeur de %s est séparé de son corps.' WHERE `entry` = -1603236;	  	
 UPDATE `script_texts` SET `content_loc2` = '%s commence à faire trembler la terre.' WHERE `entry` = -1603237;
+UPDATE `script_texts` SET `content_loc2` = 'Déplacez-vous rapidement! Elle ne restera pas en terre longtemps!' WHERE `entry` = -1603040;
+UPDATE `script_texts` SET `content_loc2` = '%s est éteint par l\'eau !' WHERE `entry` = -1603238;
