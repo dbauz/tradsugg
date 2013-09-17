@@ -6,8 +6,7 @@ INSERT INTO spell_script_target VALUES
 (63657, 1, 33233, 0),
 (63659, 1, 33233, 0),
 (63524, 1, 33233, 0),
-(62505, 1, 33186, 0),
-(65143, 1, 33186, 0);
+(62505, 1, 33186, 0);
 UPDATE creature_template SET InhabitType=InhabitType|4 WHERE entry=33186;
 UPDATE creature SET MovementType=0 WHERE id=33186;
 -- missing Razorscale controllers for harpoons
