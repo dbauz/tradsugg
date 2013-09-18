@@ -4696,3 +4696,6 @@ UPDATE `script_texts` SET `content_loc2` = 'Le coeur de %s est séparé de son c
 UPDATE `script_texts` SET `content_loc2` = '%s commence à faire trembler la terre.' WHERE `entry` = -1603237;
 UPDATE `script_texts` SET `content_loc2` = 'Déplacez-vous rapidement! Elle ne restera pas en terre longtemps!' WHERE `entry` = -1603040;
 UPDATE `script_texts` SET `content_loc2` = '%s est éteint par l\'eau !' WHERE `entry` = -1603238;
+UPDATE `script_texts` SET `content_loc2` = 'Vous l\'avez fait ! Vous avez cassé les défenses d\'Ulduar. Dans quelques moments, nous passerons à...' WHERE `entry` = -1603239;
+UPDATE `script_texts` SET `content_loc2` = 'Qu\'est-ce que c\'est? Soyez prudent! Quelque chose se dirige vers votre chemin!' WHERE `entry` = -1603240;
+UPDATE `script_texts` SET `content_loc2` = 'Vite! Des mesures d\'évitement! Acte Evasive --' WHERE `entry` = -1603241;
