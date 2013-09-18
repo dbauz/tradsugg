@@ -571,3 +571,14 @@ UPDATE `db_script_string` SET `content_loc2`='ls sont le murmure frissonant du v
 UPDATE `db_script_string` SET `content_loc2`='Ils ne meurent pas, ils ne vivent pas. Ils sont en dehors du cycle.' WHERE `entry`=2000005519;
 UPDATE `db_script_string` SET `content_loc2`='Si l\'un tombe, un grand nombre prend sa place ..' WHERE `entry`=2000005520;
 UPDATE `db_script_string` SET `content_loc2`='%s est à vos trousses!' WHERE `entry`=2000005524;
+UPDATE `db_script_string` SET `content_loc2`='Quelle bataille! N\'avez-vous vu que, Rhydian!' WHERE `entry`=2000005559;
+UPDATE `db_script_string` SET `content_loc2`='Nos amis se sont bien battus, Brann, mais nous n\'avons pas encore fini.' WHERE `entry`=2000005560;
+UPDATE `db_script_string` SET `content_loc2`='Peut-être alors, mais ce n\'est qu\'une question de temps avant que nous rompons dans Ulduar. Toute chance de trouver un moyen de se téléporter à l\'intérieur ?' WHERE `entry`=2000005561;
+UPDATE `db_script_string` SET `content_loc2`='Pas du tout. Je soupçonne que cela a quelque chose à voir avec cette construction mécanique géante que nos éclaireurs ont repéré en face de la porte.' WHERE `entry`=2000005562;
+UPDATE `db_script_string` SET `content_loc2`='Oh. Nous aurons donc à composer avec cette chose, après tout, alors?' WHERE `entry`=2000005563;
+UPDATE `db_script_string` SET `content_loc2`='Qu\'en est-il du proto-drake plaqué et le géant de feu qui ont été repérés à proximité ? Pensez vous que vos mages peuvent gérer cela ?' WHERE `entry`=2000005564;
+UPDATE `db_script_string` SET `content_loc2`='Le Kirin Tor ne peut éventuellement épargner toute ressource supplémentaire à prendre sur quoi que ce soit qui taille. Nous pouvons pas cependant.' WHERE `entry`=2000005565;
+UPDATE `db_script_string` SET `content_loc2`='Nous pouvons nous faufiler devant eux. Tant que nous pouvons prendre vers le bas de cette construction devant la porte, nous devrions pouvoir pénétrer à l\'intérieur.' WHERE `entry`=2000005566;
+UPDATE `db_script_string` SET `content_loc2`='Se faufiler? ! Pensez-vous que nous sommes, des marmottes ?' WHERE `entry`=2000005567;
+UPDATE `db_script_string` SET `content_loc2`='Nous allons chasser un Dieu très ancien, Brann' WHERE `entry`=2000005568;
+UPDATE `db_script_string` SET `content_loc2`='Très bien. Si nos alliés vont être ceux qui se salissent les mains, nous allons leur laisser le soin de décider comment procéder.' WHERE `entry`=2000005569;
