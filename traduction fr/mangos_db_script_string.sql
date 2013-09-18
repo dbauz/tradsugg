@@ -603,3 +603,10 @@ UPDATE `db_script_string` SET `content_loc2`='...les déserteurs cherchent un Th
 UPDATE `db_script_string` SET `content_loc2`='... comme un déserteur, vous pourrez profiter des activités comme la natation captive et le toilettage de chien? Comment ridicule!' WHERE `entry`=2000005512;
 UPDATE `db_script_string` SET `content_loc2`='Dire bonjour à mes petits amis !' WHERE `entry`=2000005464;  	
 UPDATE `db_script_string` SET `content_loc2`='Hey, Merci' WHERE `entry`=2000005517;
+UPDATE `db_script_string` SET `content_loc2`='Qu\'est-ce ... Qu\'est-ce que vous venez de faire, $n! Brann! Braaaaannn!' WHERE `entry`=2000005570;
+UPDATE `db_script_string` SET `content_loc2`='Brannon vient d\'activer le système de défense orbitale! Si nous n\'obtenons pas d\'ici peu, nous allons être grillé!' WHERE `entry`=2000005571;
+UPDATE `db_script_string` SET `content_loc2`='Pentarus, vous avez entendu l\'homme. Demandez à vos mages de libérer le bouclier et laisser ces braves âmes à travers!' WHERE `entry`=2000005572;
+UPDATE `db_script_string` SET `content_loc2`='Bien sûr, Brann : nous aurons momentanément le bouclier vers le bas.' WHERE `entry`=2000005573;
+UPDATE `db_script_string` SET `content_loc2`='Okay ! Nous allons déménager. Entrez dans vos machines ; Je vais vous parler d\'ici par l\'intermédiaire de la radio.' WHERE `entry`=2000005574;
+UPDATE `db_script_string` SET `content_loc2`='Mages du Kirin Tor, sur commande de Brann, libérer le bouclier ! Défendez cette plateforme et nos alliés avec votre vie ! Pour Dalaran !' WHERE `entry`=2000005575;
+UPDATE `db_script_string` SET `content_loc2`='Nos alliés sont prêts. Faire descendre le bouclier et faire de la place!' WHERE `entry`=2000005576;

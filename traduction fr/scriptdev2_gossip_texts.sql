@@ -66,4 +66,7 @@ UPDATE `gossip_texts` SET `content_loc2`='Passons Brann, assez de leçons d\'his
 UPDATE `gossip_texts` SET `content_loc2`='Merci pour l\'intérêt, mais nous avons l\'intention d\'explorer Zul\'Aman.' WHERE `entry`=-3568000;
 UPDATE `gossip_texts` SET `content_loc2`='Réinitialisez l\'échiquier, nous tenons à rejouer.' WHERE `entry`=-3532018;
 UPDATE `gossip_texts` SET `content_loc2`='Nous sommes prêts à aider !' WHERE `entry`= -3603009;
+UPDATE `gossip_texts` SET `content_loc2`='Activer les systèmes de défense secondaires.' WHERE `entry`=-3603010;
+UPDATE `gossip_texts` SET `content_loc2`='Confirmé.' WHERE `entry`=-3603011;
+UPDATE `gossip_texts` SET `content_loc2`='Nous sommes prêts. Commencez l\'assaut!' WHERE `entry`=-3603012;
 
