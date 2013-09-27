@@ -610,3 +610,5 @@ UPDATE `db_script_string` SET `content_loc2`='Bien sûr, Brann : nous aurons mom
 UPDATE `db_script_string` SET `content_loc2`='Okay ! Nous allons déménager. Entrez dans vos machines ; Je vais vous parler d\'ici par l\'intermédiaire de la radio.' WHERE `entry`=2000005574;
 UPDATE `db_script_string` SET `content_loc2`='Mages du Kirin Tor, sur commande de Brann, libérer le bouclier ! Défendez cette plateforme et nos alliés avec votre vie ! Pour Dalaran !' WHERE `entry`=2000005575;
 UPDATE `db_script_string` SET `content_loc2`='Nos alliés sont prêts. Faire descendre le bouclier et faire de la place!' WHERE `entry`=2000005576;
+UPDATE `db_script_string` SET `content_loc2`='Nous l\'avons fait, les gars! Nous sommes arrivés ici avant l\'arrivée de Algalon. Peut-être que nous pouvons truquer les systèmes d\'interférer avec son analyse --' WHERE `entry`=2000005578;
+UPDATE `db_script_string` SET `content_loc2`='Je repars à l\'Archivum et voir si je peux confiturer sese signaux. Je pourrais peut-être nous faire gagner du temps pendant que vous prenez soin de lui.' WHERE `entry`=2000005579;
