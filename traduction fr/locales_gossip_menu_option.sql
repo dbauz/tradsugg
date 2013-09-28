@@ -2420,4 +2420,7 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'En savoir plus sur
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'En savoir plus sur double spécialisation des talents.' WHERE `menu_id` = 3924 AND `id` = 2;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Oui, s\'il vous plaît do.' WHERE `menu_id` = 20013 AND `id` = 0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Je voudrais m\'entraîner plus loin dans les voies de la Lumière.' WHERE `menu_id` = 4556  AND `id` =0 ;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Je cherche la formation dans les voies du chasseur' WHERE `menu_id` = 6652 AND `id` = 0;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Je tiens à désapprendre mes talents.' WHERE `menu_id` = 6652 AND `id` = 1; 	  	
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Découvrez le Talent de double spécialisation.' WHERE `menu_id` = 6652 AND `id` = 2;
 
