@@ -4707,3 +4707,6 @@ UPDATE `script_texts` SET `content_loc2` = 'J\'ai réarrangé le code de répons
 UPDATE `script_texts` SET `content_loc2` = 'Je manque de force pour transmettre le signal. Vous devez vous dépêcher... trouver... un endroit de pouvoir... près des cieux.' WHERE `entry` = -1603124;
 UPDATE `script_texts` SET `content_loc2` = 'Ne vous inquiétez pas au sujet de mon destin, Bronzen. Si le signal n\'est pas transmis à temps, la réorigine procédera malgré tout.Sauvegarder ... votre monde...' WHERE `entry` = -1603125;
 UPDATE `script_texts` SET `content_loc2` = 'Je connais l\'endroit idéal. Serez-vous d\'accord?' WHERE `entry` = -1603246;
+UPDATE `script_texts` SET `content_loc2` = '%s vous Regarde un instant, puis pour vous de suivre les mouvements.' WHERE `entry` = -1000963;
+UPDATE `script_texts` SET `content_loc2` = '%s enquêtes sur le terrain pour les pierres de Corbeau enfouis.' WHERE `entry` = -1000964;
+UPDATE `script_texts` SET `content_loc2` = '%s localise une pierre Corbeau enfouie.' WHERE `entry` = -1000965;
