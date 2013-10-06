@@ -1,4 +1,4 @@
-DELETE FROM `creature_ai_scripts` WHERE id IN (33090, 33264, 34161, 33214, 33189, 33387, 34275, 33139, 33364, 33365, 33571, 34159, 33067, 33167, 33062, 33109, 33060);
+DELETE FROM `creature_ai_scripts` WHERE creature_id IN (33090, 33264, 34161, 33214, 33189, 33387, 34275, 33139, 33364, 33365, 33571, 34159, 33067, 33167, 33062, 33109, 33060);
 INSERT INTO `creature_ai_scripts` (`id`,`creature_id`,`event_type`,`event_inverse_phase_mask`,`event_chance`,`event_flags`,`event_param1`,`event_param2`,`event_param3`,`event_param4`,`action1_type`,`action1_param1`,`action1_param2`,`action1_param3`,`action2_type`,`action2_param1`,`action2_param2`,`action2_param3`,`action3_type`,`action3_param1`,`action3_param2`,`action3_param3`,`comment`) VALUES
 -- Salvaged Siege Engine
 ('3306001','33060','11','0','100','6','0','0','0','0','21','0','0','0','0','0','0','0','0','0','0','0','Salvaged Siege Engine - Set Combat Movement false on Spawned'),
