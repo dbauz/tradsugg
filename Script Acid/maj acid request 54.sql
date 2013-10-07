@@ -11,5 +11,5 @@ DELETE FROM `creature_ai_texts` WHERE `entry` IN (-242,-243);
 INSERT into `creature_ai_texts` (`entry`,`content_default`,`sound`,`type`,`language`,`comment`,`emote`) VALUES
 ('-242','The falcon is vaniquished, doomed never to rise again! Your quest is futile!','0','0','0','22994','0'),
 ('-243','The raven will return to us as foretold in the prophecy and you are powerless to stop it!','0','0','0','22994','0');
-UPDATE `creature_ai_texts` SET `content_loc2`='Le faucon est très fatigué, condamné pour ne jamais monter de nouveau! Votre recherche est futile!' WHERE (`entry`='-242');
+UPDATE `creature_ai_texts` SET `content_loc2`='Le faucon est vaincu, condamné à ne jamais se relever! Votre quête est vaine!' WHERE (`entry`='-242');
 UPDATE `creature_ai_texts` SET `content_loc2`='Le corbeau nous reviendra comme prédit dans la prophétie et que vous êtes impuissants à arrêter!' WHERE (`entry`='-243');
