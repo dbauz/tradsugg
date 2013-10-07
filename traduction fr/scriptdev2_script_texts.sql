@@ -4710,3 +4710,4 @@ UPDATE `script_texts` SET `content_loc2` = 'Je connais l\'endroit idéal. Serez-
 UPDATE `script_texts` SET `content_loc2` = '%s vous Regarde un instant, puis pour vous de suivre les mouvements.' WHERE `entry` = -1000963;
 UPDATE `script_texts` SET `content_loc2` = '%s enquêtes sur le terrain pour les pierres de Corbeau enfouis.' WHERE `entry` = -1000964;
 UPDATE `script_texts` SET `content_loc2` = '%s localise une pierre Corbeau enfouie.' WHERE `entry` = -1000965;
+UPDATE `script_texts` SET `content_loc2` = '%s s\'entoure d\'une barrière runique qui crépite!' WHERE `entry` = -1603247;
