@@ -24,7 +24,7 @@ UPDATE creature_template SET AIName='EventAI' WHERE entry IN (32873, 33725, 3305
 DELETE FROM `creature_ai_texts` WHERE `entry` = -212;
 INSERT into `creature_ai_texts` (`entry`,`content_default`,`sound`,`type`,`language`,`comment`,`emote`) VALUES
 ('-212','%s fortifies nearby allies with runic might!','0','3','0','Ancient Rune Giant','0');
-UPDATE `creature_ai_texts` SET `content_loc2`='%s fortifie alliés proches avec puissance runique!' WHERE (`entry`='-242');
+UPDATE `creature_ai_texts` SET `content_loc2`='%s fortifie alliés proches avec puissance runique!' WHERE (`entry`='-212');
 Delete from `creature_ai_scripts` where `id`IN (3414602,3415002,3415102);
 INSERT INTO `creature_ai_scripts` (`id`,`creature_id`,`event_type`,`event_inverse_phase_mask`,`event_chance`,`event_flags`,`event_param1`,`event_param2`,`event_param3`,`event_param4`,`action1_type`,`action1_param1`,`action1_param2`,`action1_param3`,`action2_type`,`action2_param1`,`action2_param2`,`action2_param3`,`action3_type`,`action3_param1`,`action3_param2`,`action3_param3`,`comment`) VALUES
 ('3414602','34146','10','0','100','6','0','15','0','0','28','0','46598','0','41','1000','0','0','0','0','0','0','Snow Mound (4) - Remove Ride Vehicle Hardcoded and Despawn on OOC Los'),
