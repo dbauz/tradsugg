@@ -470,8 +470,8 @@ UPDATE `creature_ai_texts` SET `content_loc2` = 'Grek prend à boire' WHERE `ent
 UPDATE `creature_ai_texts` SET `content_loc2` = 'Cette huile n\'est pas bonne pour Grek ! À quoi Grek vous ressemble, un certain faible dans des robes ?' WHERE `entry` = -246;
 UPDATE `creature_ai_texts` SET `content_loc2` = 'Grek essai !' WHERE `entry` = -245;
 UPDATE `creature_ai_texts` SET `content_loc2` = 'Quelqu\'un vient lire cette affiche de recherche à Grek. Grek ne sait pas lire.' WHERE `entry` = -244;
-UPDATE `creature_ai_texts` SET `content_loc2` = 'Vous mourrez pour votre orgueil, druide !' WHERE `entry` = -243;
-UPDATE `creature_ai_texts` SET `content_loc2` = 'Vous osez déranger les disciples loyaux du Corbeau ?' WHERE `entry` = -242;
+UPDATE `creature_ai_texts` SET `content_loc2` = 'Le corbeau nous reviendra comme prédit dans la prophétie et que vous êtes impuissants à arrêter!' WHERE `entry` = -243;
+UPDATE `creature_ai_texts` SET `content_loc2` = 'Le faucon est vaincu, condamné à ne jamais se relever! Votre quête est vaine!' WHERE `entry` = -242;
 UPDATE `creature_ai_texts` SET `content_loc2` = 'Vous mourrez pour votre orgueil, druide !' WHERE `entry` = -241;
 UPDATE `creature_ai_texts` SET `content_loc2` = 'Vous osez déranger les disciples loyaux du Corbeau ?' WHERE `entry` = -240;
 UPDATE `creature_ai_texts` SET `content_loc2` = 'Le temps du Corbeau est la nuit, mais le vôtre finira ici !' WHERE `entry` = -239;
@@ -501,7 +501,7 @@ UPDATE `creature_ai_texts` SET `content_loc2` = 'Tous vos efforts ont été vain
 UPDATE `creature_ai_texts` SET `content_loc2` = 'Détruire !' WHERE `entry` = -215;
 UPDATE `creature_ai_texts` SET `content_loc2` = 'Tuer !' WHERE `entry` = -214;
 UPDATE `creature_ai_texts` SET `content_loc2` = 'Écraser !' WHERE `entry` = -213;
-UPDATE `creature_ai_texts` SET `content_loc2` = 'Aaaahhhhhh !' WHERE `entry` = -212;
+UPDATE `creature_ai_texts` SET `content_loc2` = '%s fortifie alliés proches avec puissance runique!' WHERE `entry` = -212;
 UPDATE `creature_ai_texts` SET `content_loc2` = 'Mourez au nom d\'Edwin Cleef !' WHERE `entry` = -211;
 UPDATE `creature_ai_texts` SET `content_loc2` = 'Je vais vous envoyer dans votre tombe, faible $C !' WHERE `entry` = -210;
 UPDATE `creature_ai_texts` SET `content_loc2` = 'J\'ai un message spécial pour $N. Et il dit que vous devez mourir !' WHERE `entry` = -209;
