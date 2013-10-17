@@ -2423,4 +2423,13 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Je voudrais m\'ent
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Je cherche la formation dans les voies du chasseur' WHERE `menu_id` = 6652 AND `id` = 0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Je tiens à désapprendre mes talents.' WHERE `menu_id` = 6652 AND `id` = 1; 	  	
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Découvrez le Talent de double spécialisation.' WHERE `menu_id` = 6652 AND `id` = 2;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Montrez-moi ce que vous avez à vendre' WHERE `menu_id` = 8530 AND `id` = 0;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'S\`il vous plaît apprenez moi comment devenir un tailleur en étoffe lunaire.' WHERE `menu_id` = 8530 AND `id` = 1;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Je tiens à désapprendre Couture en étoffe lunaire.' 'box_text_loc2' =' Voulez-vous vraiment désapprendre votre spécialité de couture et de perdre toutes les recettes associées?' WHERE `menu_id` = 8530 AND `id` = 2;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Montrez-moi ce que vous avez à vendre' WHERE `menu_id` = 8531 AND `id` = 0;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'S\`il vous plaît apprenez moi comment devenir un  tailleur magefeu.' WHERE `menu_id` = 8531 AND `id` = 1;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Je tiens à désapprendre magefeu Couture.' 'box_text_loc2' =' Voulez-vous vraiment désapprendre votre spécialité de couture et de perdre toutes les recettes associées?' WHERE `menu_id` = 8531 AND `id` = 2;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Montrez-moi ce que vous avez à vendre' WHERE `menu_id` = 8532 AND `id` = 0;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'S\`il vous plaît apprenez moi comment devenir un tailleur-ombre.' WHERE `menu_id` = 8532 AND `id` = 1;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2` = 'Je tiens à désapprendre Couture Ombre.' 'box_text_loc2' =' Voulez-vous vraiment désapprendre votre spécialité de couture et de perdre toutes les recettes associées?' WHERE `menu_id` = 8532 AND `id` = 2;
 
