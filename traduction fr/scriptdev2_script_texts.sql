@@ -4712,3 +4712,16 @@ UPDATE `script_texts` SET `content_loc2` = '%s enquêtes sur le terrain pour les
 UPDATE `script_texts` SET `content_loc2` = '%s localise une pierre Corbeau enfouie.' WHERE `entry` = -1000965;
 UPDATE `script_texts` SET `content_loc2` = '%s s\'entoure d\'une barrière runique qui crépite!' WHERE `entry` = -1603247;
 UPDATE `script_texts` SET `content_loc2` = 'Le garrot du % dans la terre et commence à se régénérer.' WHERE `entry` = -1603011;
+UPDATE `script_texts` SET `content_loc2` = 'Séquence d\'autodestruction lancée.' WHERE `entry` = -1603248;
+UPDATE `script_texts` SET `content_loc2` = 'Cette zone s\'autodétruira dans dix minutes.' WHERE `entry` = -1603249;
+UPDATE `script_texts` SET `content_loc2` = 'Cette zone s\'autodétruira dans neuf minutes.' WHERE `entry` = -1603250;
+UPDATE `script_texts` SET `content_loc2` = 'Cette zone s\'autodétruira dans huit minutes.' WHERE `entry` = -1603251;
+UPDATE `script_texts` SET `content_loc2` = 'Cette zone s\'autodétruira dans sept minutes.' WHERE `entry` = -1603252;
+UPDATE `script_texts` SET `content_loc2` = 'Cette zone s\'autodétruira dans six minutes.' WHERE `entry` = -1603253;
+UPDATE `script_texts` SET `content_loc2` = 'Cette zone s\'autodétruira dans cinq minutes.' WHERE `entry` = -1603254;
+UPDATE `script_texts` SET `content_loc2` = 'Cette zone s\'autodétruira dans quatre minutes.' WHERE `entry` = -1603255;
+UPDATE `script_texts` SET `content_loc2` = 'Cette zone s\'autodétruira dans trois minutes.' WHERE `entry` = -1603256;
+UPDATE `script_texts` SET `content_loc2` = 'Cette zone s\'autodétruira dans deux minutes.' WHERE `entry` = -1603257;
+UPDATE `script_texts` SET `content_loc2` = 'Cette zone s\'autodétruira dans une minutes.' WHERE `entry` = -1603258;
+UPDATE `script_texts` SET `content_loc2` = 'Séquence d\'autodestruction finalisé. Bonne Journée' WHERE `entry` = -1603259;
+UPDATE `script_texts` SET `content_loc2` = 'Séquence d\'autodestruction terminée. Remplacer le code A905' WHERE `entry` = -1603260;
