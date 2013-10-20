@@ -4723,5 +4723,5 @@ UPDATE `script_texts` SET `content_loc2` = 'Cette zone s\'autodétruira dans qua
 UPDATE `script_texts` SET `content_loc2` = 'Cette zone s\'autodétruira dans trois minutes.' WHERE `entry` = -1603256;
 UPDATE `script_texts` SET `content_loc2` = 'Cette zone s\'autodétruira dans deux minutes.' WHERE `entry` = -1603257;
 UPDATE `script_texts` SET `content_loc2` = 'Cette zone s\'autodétruira dans une minutes.' WHERE `entry` = -1603258;
-UPDATE `script_texts` SET `content_loc2` = 'Séquence d\'autodestruction finalisé. Bonne Journée' WHERE `entry` = -1603259;
+UPDATE `script_texts` SET `content_loc2` = 'Séquence d\'autodestruction finalisée. Bonne Journée' WHERE `entry` = -1603259;
 UPDATE `script_texts` SET `content_loc2` = 'Séquence d\'autodestruction terminée. Remplacer le code A905' WHERE `entry` = -1603260;
