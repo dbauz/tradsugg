@@ -4725,3 +4725,4 @@ UPDATE `script_texts` SET `content_loc2` = 'Cette zone s\'autodétruira dans deu
 UPDATE `script_texts` SET `content_loc2` = 'Cette zone s\'autodétruira dans une minutes.' WHERE `entry` = -1603258;
 UPDATE `script_texts` SET `content_loc2` = 'Séquence d\'autodestruction finalisée. Bonne Journée' WHERE `entry` = -1603259;
 UPDATE `script_texts` SET `content_loc2` = 'Séquence d\'autodestruction terminée. Remplacer le code A905' WHERE `entry` = -1603260;
+UPDATE `script_texts` SET `content_loc2` = '%s commence à jeter le Souffle de Plasma !' WHERE `entry` = -1603196;
