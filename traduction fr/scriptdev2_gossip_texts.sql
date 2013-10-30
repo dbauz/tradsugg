@@ -69,4 +69,6 @@ UPDATE `gossip_texts` SET `content_loc2`='Nous sommes prêts à aider !' WHERE `
 UPDATE `gossip_texts` SET `content_loc2`='Activer les systèmes de défense secondaires.' WHERE `entry`=-3603010;
 UPDATE `gossip_texts` SET `content_loc2`='Confirmé.' WHERE `entry`=-3603011;
 UPDATE `gossip_texts` SET `content_loc2`='Nous sommes prêts. Commencez l\'assaut!' WHERE `entry`=-3603012;
+UPDATE `gossip_texts` SET `content_loc2`='Chromie,vous et moi,les deux savent ce qui va se passer dans ce flux du temps. Nous avons vu tout cela avant. $B$B pouvez vous juste nous passez directement à l\'action réelle ?' WHERE `entry`=-3595006;
+UPDATE `gossip_texts` SET `content_loc2`='Oui, s\'il vous plaît !' WHERE `entry`=-3595007;
 
