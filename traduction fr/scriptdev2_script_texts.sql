@@ -4728,3 +4728,4 @@ UPDATE `script_texts` SET `content_loc2` = 'Séquence d\'autodestruction termin�
 UPDATE `script_texts` SET `content_loc2` = '%s commence à jeter le Souffle de Plasma !' WHERE `entry` = -1603196;
 UPDATE `script_texts` SET `content_loc2` = 'Tous les soldats de Lordaeron doivent signaler immédiatement à l\'entrée de Stratholme, et attendre de nouveaux ordres du prince Arthas.' WHERE `entry` = -1595000;
 UPDATE `script_texts` SET `content_loc2` = 'Bon travail avec les caisses! Venez me parler en face de Stratholme pour votre prochaine mission!' WHERE `entry` = -1595001;
+UPDATE `script_texts` SET `content_loc2` = '%s commence à bouillir en touchant $n!' WHERE `entry` = -1603261;
