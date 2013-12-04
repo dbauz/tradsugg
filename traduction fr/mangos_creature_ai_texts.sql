@@ -1202,6 +1202,9 @@ UPDATE `creature_ai_texts` SET `content_loc2` = 'La ruine  nous trouve tous !' W
 UPDATE `creature_ai_texts` SET `content_loc2` = 'Dans le nom de Sargeras !' WHERE `entry` = -668;
 UPDATE `creature_ai_texts` SET `content_loc2` = 'La Légion reigne!' WHERE `entry` = -669;
 UPDATE `creature_ai_texts` SET `content_loc2` = 'Ver pitoyable !' WHERE `entry` = -670;
+UPDATE `creature_ai_texts` SET `content_loc2` = 'ATTAQUE AVEC TOUTE LA FORCE DU NÉANT, MON ENFANT! ATTAQUE !' WHERE `entry` = -698;
+UPDATE `creature_ai_texts` SET `content_loc2` = 'Seigneur Illidan, bénissez moi avec la puissance du vol !' WHERE `entry` = -699;
+UPDATE `creature_ai_texts` SET `content_loc2` = 'La Fraternité prévaudra!' WHERE `entry` = -173;
 
 
 
