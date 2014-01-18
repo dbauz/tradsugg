@@ -655,3 +655,7 @@ UPDATE `db_script_string` SET `content_loc2`='Je n\'étais même pas censé êtr
 UPDATE `db_script_string` SET `content_loc2`='Eh bien, devinez que je devrais charger le tout dans le panier.' WHERE `entry`=2000005620;
 UPDATE `db_script_string` SET `content_loc2`='Oh, allez! Mon panier cassé, mon cheval a perdu un fer, et maintenant le cargo va mal!' WHERE `entry`=2000005621;
 UPDATE `db_script_string` SET `content_loc2`='Je suppose que je vais trouver les autorités. Si j\'ai de la chance qu\'ils me disent que c\'est la peste et que nous allons tous mourir.' WHERE `entry`=2000005622;
+UPDATE `db_script_string` SET `content_loc2`='Facile maintenant, draconien.' WHERE `entry`=2000005623;
+UPDATE `db_script_string` SET `content_loc2`='Un magnifique spécimen.' WHERE `entry`=2000005624;
+UPDATE `db_script_string` SET `content_loc2`='Dormir maintenant, jeune ....' WHERE `entry`=2000005625;
+UPDATE `db_script_string` SET `content_loc2`='Oui, celui-ci doit bien avancer mes études...' WHERE `entry`=2000005626;
